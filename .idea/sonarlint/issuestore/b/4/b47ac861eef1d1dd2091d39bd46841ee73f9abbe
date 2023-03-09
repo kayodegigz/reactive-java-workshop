@@ -1,0 +1,38 @@
+
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¼—Æşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†¯šúÿÿÿÿ
+M
+java:S1135
+"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÉŒ¨şÿÿÿÿ8¥Ÿñœë0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŒ¨şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùÄÁ„ÿÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÉŒ¨şÿÿÿÿ8ÂŸñœë0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŒ¨şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıÉöŸ
+M
+java:S1135"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÉŒ¨şÿÿÿÿ8àŸñœë0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŒ¨şÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ş¤©òùÿÿÿÿ
+M
+java:S1135$"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(®ã”õşÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(œÚÏıÿÿÿÿ
+M
+java:S1135."2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¡¦¾ş
+[
+java:S16124"?Replace this lambda with method reference 'User::getFirstName'.(‚µ½	8 ñœë0
+]
+java:S16125"@Replace this lambda with method reference 'System.out::println'.(Ìûñ®8ƒ ñœë0
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ìûñ®
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(Äıùo
+M
+java:S11358"2Complete the task associated to this TODO comment.(¯¼åáøÿÿÿÿ
+M	java:S106="9Replace this use of System.out or System.err by a logger.(ªµÙ
